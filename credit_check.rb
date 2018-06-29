@@ -1,4 +1,4 @@
-card_number_input = "6011797668868728"
+card_number_input = "5541801923795240"
 
 split_up_number = card_number_input.split('').reverse
 test_array = []
